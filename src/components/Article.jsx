@@ -20,11 +20,15 @@ const Article = () => {
               <div className="contr-fluid">
                 <div className="contr-fluid_inner">
                   <h1>
-                    Dear bridesmaids, You Might Want To Invest In A Corset
-                    Outfit This Wedding Season
+                    If a diamond had wheels, it would be the all-new Defender
+                    OCTA
                   </h1>
                   <div className="para-ButFlex">
-                    <p>Bonus? They flatter every body type!</p>
+                    <p>
+                      What do diamonds and the Defender OCTA have in common?
+                      Supreme strength, undeniable desirability, and the power
+                      to turn heads
+                    </p>
                   </div>
                 </div>
                 <div className="detailed-media_info">
@@ -32,7 +36,7 @@ const Article = () => {
                     <div className="card-meta_meta_inner">
                       <div className="card-meta_item">
                         <span className="card-meta_label text-7">
-                          Sep 5, 2025
+                          Mar 27, 2025
                         </span>
                       </div>
                       <div className="card-meta_item">
@@ -42,7 +46,7 @@ const Article = () => {
                             className="author-link"
                             href="/author/palak-valecha"
                           >
-                            Palak Valecha
+                            Vanshika Jain
                           </a>
                         </span>
                       </div>
@@ -101,15 +105,15 @@ const Article = () => {
                     //     color: "transparent"
                     //   }}
                     sizes="100vw"
-                    src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.437Z-Untitled%2520design%2520-%25202025-09-04T154543.191.jpg&w=750&q=75"
+                    src="https://assets.vogue.in/photos/67e3e749900525e6ab5201fb/master/w_1600,c_limit/DEFENDER%20OCTA%203.jpg"
                   />
                 </div>
                 <div className="Stories_caption_wrapper">
                   <span className="Stories_caption">
-                    L-R: Ananya Panday, Bhumi Pednekar
+                    {/* L-R: Ananya Panday, Bhumi Pednekar */}
                   </span>
                   <span className="Stories_courtesy">
-                    L-R: Instagram/Ananya Panday, Instagram/Bhumi Pednekar
+                    {/* L-R: Instagram/Ananya Panday, Instagram/Bhumi Pednekar */}
                   </span>
                 </div>
               </div>
@@ -120,8 +124,15 @@ const Article = () => {
                       <div className="rich-text_wrapper">
                         <p style={{ textAlign: "left" }}>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            If you are going to invest in one outfit this
-                            wedding season, let it be something with a{" "}
+                            There’s tough, there’s luxurious, and then there’s
+                            tough luxury. A rare, almost paradoxical phenomenon
+                            that’s as difficult to come by as a diamond in the
+                            rough. But every once in a while, something comes
+                            along that fuses brute strength with unrelenting
+                            desirability, resetting the very definition of
+                            power. Cue in the Defender OCTA—the most powerful
+                            Defender ever created, inspired by none other than
+                            nature’s toughest marvel—the diamond.
                           </span>
                           <a
                             target="_blank"
@@ -130,11 +141,11 @@ const Article = () => {
                             href="https://www.manifestmagazine.in/tag/corset"
                           >
                             <span style={{ color: "rgb(0, 0, 0)" }}>
-                              corset
+                              {/* corset */}
                             </span>
                           </a>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            . Doesn’t matter if it is a{" "}
+                            {/* . Doesn’t matter if it is a{" "} */}
                           </span>
                           <a
                             target="_blank"
@@ -143,15 +154,15 @@ const Article = () => {
                             href="https://www.manifestmagazine.in/fashion-beauty/celebrity-style/get-the-look-bhumi-pednekar-cobalt-blue-corset-sari"
                           >
                             <span style={{ color: "rgb(0, 0, 0)" }}>
-                              corset saree
+                              {/* corset saree */}
                             </span>
                           </a>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            {" "}
+                            {/* {" "}
                             or a corset and a draped skirt but hop onto the
                             corset bandwagon this wedding season. Because
                             corsets are huge right now—from runways to celebrity
-                            closets, they are all the rage. The biggest{" "}
+                            closets, they are all the rage. The biggest{" "} */}
                           </span>
                           <a
                             target="_blank"
@@ -160,11 +171,11 @@ const Article = () => {
                             href="https://www.manifestmagazine.in/fashion-beauty/features/bridal-wear-trend-report-hyundai-india-couture-week-2025"
                           >
                             <span style={{ color: "rgb(0, 0, 0)" }}>
-                              trend spotted at the India Couture Week 2025
+                              {/* trend spotted at the India Couture Week 2025 */}
                             </span>
                           </a>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            ? Also, corsets!
+                            {/* ? Also, corsets! */}
                           </span>
                           <br />
                         </p>
@@ -197,7 +208,7 @@ const Article = () => {
                                 data-nimg="fill"
                                 className="imgcover"
                                 sizes="100vw"
-                                src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-06-10T08%253A00%253A51.991Z-image.jpg&w=3840&q=75"
+                                src="https://assets.vogue.in/photos/67e51fa48f39dc1956292487/master/w_1600,c_limit/_ARJ_7939.jpg"
                                 style={{
                                   position: "absolute",
                                   height: "100%",
@@ -218,8 +229,7 @@ const Article = () => {
                             >
                               <strong>Features</strong>
                               <h3 className="card-title mb-0">
-                                Form Flattering Corsets And Breastplates Are The
-                                New Blouses
+                                The new Defender OCTA
                               </h3>
                               <span className="author"> Team Manifest</span>
                             </div>
@@ -233,11 +243,15 @@ const Article = () => {
                       <div className="rich-text_wrapper">
                         <p style={{ textAlign: "left" }}>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            With meticulous boning that accentuates a woman’s
-                            natural curves and makes the garment hug the body
-                            like a glove, no other piece of clothing can match
-                            the complex artistry of the corset. Not to mention
-                            they flatter every body type!
+                            If you think about it, both are born under immense
+                            pressure, both carry an aura of unparalleled
+                            prestige, and both refuse to crack under any
+                            circumstances. If diamonds are forever, the Defender
+                            OCTA is its automotive equivalent. Only, instead of
+                            being encased in velvet, it’s clad in aerodynamic
+                            muscle, a commanding stance, and a performance so
+                            robust it makes off-road terrain feel like a red
+                            carpet.
                           </span>
                           <br />
                         </p>
@@ -270,14 +284,14 @@ const Article = () => {
                               height: "auto",
                             }}
                             sizes="100vw"
-                            src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.431Z-SnapInsta.to_470563398_18474385063006330_189191875417241461_n.jpg&w=3840&q=75"
+                            src="https://assets.vogue.in/photos/67e3e811f82e233eebcf303a/master/w_1920,c_limit/DEFENDER%20OCTA%204.jpg"
                           />
                           <div className="Stories_caption_wrapper">
                             <span className="Stories_caption">
-                              Janhvi Kapoor in a corset
+                              {/* Janhvi Kapoor in a corset */}
                             </span>
                             <span className="Stories_courtesy">
-                              Instagram/Janhvi Kapoor
+                              {/* Instagram/Janhvi Kapoor */}
                             </span>
                           </div>
                         </div>
@@ -310,36 +324,24 @@ const Article = () => {
                     </div>
                   </div>
                   <br />
-                          <div className="StoriesInfo_left_innercntr-full-width">
-                          <PanoramaViewer imageUrl="/panorama.jpeg" />
-                        </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <PanoramaViewer imageUrl="/panorama.jpeg" />
+                  </div>
 
                   <div className="StoriesInfo_left_innercntr-full-width">
                     <div className="">
                       <div className="rich-text_wrapper">
                         <p style={{ textAlign: "left" }}>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            (Not so) Fun Fact: Back in ancient and even
-                            not-so-distant times, corsets weren’t just a fashion
-                            statement—they were a societal expectation. These
-                            structured garments were designed to force women’s
-                            bodies into a specific hourglass shape, often
-                            involving extreme waist cinching to achieve an
-                            unnaturally small waistline. This idealized
-                            silhouette was considered the epitome of femininity
-                            and beauty, driven largely by patriarchal standards
-                            that dictated how women should look and behave.
-                            Unfortunately, this often came at a serious cost.
-                            Prolonged use of tightly laced corsets led to
-                            numerous health problems, including difficulty
-                            breathing, organ compression, and long-term damage
-                            to posture and internal structures. For many women,
-                            wearing a corset was not a matter of choice or
-                            fashion, but rather a requirement to fit in, get
-                            married, or even be seen as respectable in society.
-                            It’s a sobering reminder of how fashion has
-                            historically been used as a tool to control and
-                            confine women under the guise of elegance.
+                            <br />
+                            The C that matters: Capability While the 4 Cs of the
+                            diamond hold immense significance, ‘capability’ is
+                            the foremost C in the world of automobiles that
+                            makes a mark. Defender OCTA, powered by a 4.4-litre
+                            Twin Turbo mild-hybrid V8 engine, is a testament to
+                            just that. This delivers a jaw-dropping 467 kW and
+                            up to 750 Nm of torque—meaning it accelerates from
+                            0-100 km/h in just 4.0 seconds.
                           </span>
                           <b />
                         </p>
@@ -364,33 +366,7 @@ const Article = () => {
                         <div className="rich-text_wrapper">
                           <p style={{ textAlign: "left" }}>
                             <span style={{ color: "rgb(0, 0, 0)" }}>
-                              We are fortunate enough to have moved past the
-                              times when corsets were basically a symbol of
-                              patriarchy and can now wear them on our own terms.
-                              So, embrace this beautiful piece of garment this
-                              wedding season, because no matter your style or
-                              body type, there is something for everyone!&nbsp;
-                              Thankfully, times have changed. We are now in an
-                              era where clothing—corsets included—can be chosen
-                              freely, worn on our own terms, and celebrated as a
-                              form of self-expression rather than restriction.
-                              Today, the corset has evolved into a versatile and
-                              empowering garment. It’s no longer just about
-                              shaping the body; it’s about enhancing confidence,
-                              showcasing style, and embracing individuality.
-                              Whether you're into vintage glamour, modern chic,
-                              or bold statements, there's a corset out there
-                              that fits your vibe and body beautifully. So this
-                              wedding season, don’t be afraid to rock a corset
-                              with pride. Whether you’re a guest, part of the
-                              bridal party, or the bride herself, this timeless
-                              piece can be styled in countless ways to reflect
-                              your personality and celebrate your unique form.
-                              Fashion is no longer about conforming—it's about
-                              owning your look and feeling amazing in your skin.
-                              And remember: no matter your shape, size, or
-                              style, there’s a corset out there waiting to make
-                              you feel fabulous.
+                             And like a flawless diamond cut to perfection, the OCTA’s engineering is a marvel of precision and craftsmanship. Its newly introduced 6D Dynamics suspension system acts like the perfect setting, allowing the vehicle to stay impeccably poised on any surface. Whether it’s smooth highways or a rugged mountain trail, the Defender OCTA handles both, like it was tailor-made for it.
                             </span>
                             <br />
                           </p>
@@ -408,8 +384,8 @@ const Article = () => {
                             }}
                           >
                             <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Our Picks For The Most Beautiful Outfits With
-                              Corsets For The Bridesmaids
+                              {/* Our Picks For The Most Beautiful Outfits With
+                              Corsets For The Bridesmaids */}
                             </span>
                           </h2>
                         </div>
@@ -441,14 +417,14 @@ const Article = () => {
                                 height: "auto",
                               }}
                               sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A24%253A48.656Z-MR__406_6_11zon.jpeg&w=3840&q=75"
+                              src="https://assets.vogue.in/photos/67e3fdf8dc387f5ab6331737/master/w_1600,c_limit/CNT2.jpg"
                             />
                             <div className="Stories_caption_wrapper">
                               <span className="Stories_caption">
-                                Chitralekha Corset with Lehenga, Mrunalini Rao
+                                {/* Chitralekha Corset with Lehenga, Mrunalini Rao */}
                               </span>
                               <span className="Stories_courtesy">
-                                Mrunalini Rao
+                                {/* Mrunalini Rao */}
                               </span>
                             </div>
                           </div>
@@ -497,20 +473,7 @@ const Article = () => {
                         <div className="rich-text_wrapper">
                           <p style={{ textAlign: "left" }}>
                             <span style={{ color: "rgb(0, 0, 0)" }}>
-                              This stunning Mrunalini Rao corset lehenga,
-                              adorned with intricate paisley patterns, is
-                              nothing short of a masterpiece. Its vibrant
-                              colors, detailed embroidery, and carefully crafted
-                              silhouette come together to create a look that is
-                              both traditional and refreshingly modern. The
-                              corset-style blouse adds a contemporary edge while
-                              beautifully enhancing the overall elegance of the
-                              outfit. Breathtakingly beautiful and rich in
-                              cultural charm, it’s the perfect choice for a
-                              festive celebration. Whether you're dancing
-                              through your mehendi ceremony or simply soaking in
-                              the joyful vibes, this lehenga is designed to make
-                              a statement and leave a lasting impression.
+                             You know how they say the true test of a diamond’s value lies in its ability to withstand extreme pressure? The same applies to the Defender OCTA. With a chassis that’s been heavily re-engineered for maximum performance and stability, this car handles unpredictable terrains like a dream—and looks good while doing it. Its widened stance (by 68 mm) and raised ride height (by 28 mm) make it clear: this is an SUV that’s here to dominate.
                             </span>
                             <a
                               target="_blank"
@@ -519,7 +482,7 @@ const Article = () => {
                               href="https://www.manifestmagazine.in/trends-culture/moodboard/best-bollywood-brides-mehndi-designs"
                             >
                               <span style={{ color: "rgb(0, 0, 0)" }}>
-                                perfect for a mehendi
+                                {/* perfect for a mehendi */}
                               </span>
                             </a>
                             <span style={{ color: "rgb(0, 0, 0)" }}>!</span>
@@ -563,382 +526,40 @@ const Article = () => {
                                 height: "auto",
                               }}
                               sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.420Z-MM-PR-SK-72156-CR_C-XS-1_5_11zon.jpeg&w=3840&q=75"
+                              src="https://assets.vogue.in/photos/67e3fdbb12648a220c6964b7/master/w_1600,c_limit/Screenshot%202025-03-26%20at%206.41.51%E2%80%AFPM.png"
                             />
                             <div className="Stories_caption_wrapper">
                               <span className="Stories_caption">
-                                Green Embroidered Corset Skirt Set, Manish
-                                Malhotra
+                                {/* Green Embroidered Corset Skirt Set, Manish
+                                Malhotra */}
                               </span>
                               <span className="Stories_courtesy">
-                                Manish Malhotra
+                                {/* Manish Malhotra */}
                               </span>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
+                    
+                  
+               
                     <div className="StoriesInfo_left_innercntr-full-width">
                       <div className="">
                         <div className="rich-text_wrapper">
                           <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://manishmalhotra.in/product/green-embroidered-corset-skirt-set-MM-PR-SK-72156-CR_C-XS"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
+                            <span style={{ color: "rgb(0, 0, 0)" }}>
+                             But what takes the OCTA stand apart is its newly introduced OCTA Mode—a performance-focused off-road setting that makes even the most challenging terrains feel like a cakewalk. With optimised braking, traction, and acceleration control, OCTA Mode lets you quite literally carve your own path. Meanwhile, its interiors are a masterclass in elevated comfort. Think Performance Seats with Body and Soul Seat technology—an innovative feature developed with SUBPAC and Coventry University that lets you feel the music. With new material options such as Ultrafabrics™ PU, Kvadrat™ textile trims, and Burnt Sienna semi-aniline leather, the cabin is where rugged meets refinement.
+                             And for those who like their luxury with an extra edge of exclusivity, there’s the Defender OCTA Edition One—featuring a bold Faroe Green finish, Khaki and Ebony interiors, and statement-making 20-inch forged alloy wheels. Consider it the equivalent of a diamond that’s cut differently—made only for those who appreciate rarity and power.
+                            </span>
                             <br />
                           </p>
                         </div>
                       </div>
                     </div>
 
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Another{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/spotlight/little-black-book/6-henna-artists-who-should-be-on-every-brides-radar"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                outfit great for a mehendi
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              if you want to take the traditional route and wear
-                              something green, is this stunning{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/made-in-india-being-global-has-always-been-my-dream-manish-malhotra"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                Manish Malhotra
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              corset and skirt set. Fun fact: it’s a recreation
-                              of{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/get-the-look-kajols-green-outfit-from-mehendi-laga-ke-rakhna"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                Kajol’s mehendi outfit in DDLJ
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              . How cool is that!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
-                        <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="Embellished concept saree, Tarun Tahiliani"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.415Z-71223tt19-1_2_11zon.jpeg&w=3840&q=75"
-                            />
-                            <div className="Stories_caption_wrapper">
-                              <span className="Stories_caption">
-                                Embellished concept saree, Tarun Tahiliani
-                              </span>
-                              <span className="Stories_courtesy">
-                                Tarun Tahiliani
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://www.ensembleindia.com/royal-black-sequin-embellished-concept-sari/p/269694?srsltid=AfmBOoqk3TQ2LQIZ67LxaFC_Sg6NL2miBEO-3Erhtb93tQokfbqN75VWFzE"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Sleek, sexy, and effortless, this black{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/designer-tarun-tahiliani-and-his-love-for-comfortable-couture"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                corset saree by Tarun Tahiliani
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              is the perfect pick for a cocktail!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
                     
                     
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Another fabulous outfit option for a
-                              mehendi—especially if you’re leaning into
-                              tradition and want to wear something green—is this
-                              absolutely stunning Manish Malhotra corset and
-                              skirt set. The rich emerald hue pays homage to the
-                              classic mehendi color palette, while the
-                              silhouette brings a fresh, contemporary twist to a
-                              timeless look. What makes this ensemble even more
-                              special is its nostalgic inspiration: it’s a
-                              modern recreation of the iconic mehendi outfit
-                              worn by Kajol in Dilwale Dulhania Le Jayenge—a
-                              film that has defined romance for an entire
-                              generation. The fusion of cinematic nostalgia and
-                              high-fashion craftsmanship makes this piece not
-                              just beautiful, but meaningful too. So if you’re a
-                              Bollywood lover, a DDLJ fan, or just someone who
-                              appreciates a mix of tradition and trend, this
-                              outfit is the perfect way to celebrate your
-                              mehendi in style—and with a little cinematic
-                              flair! How cool is that?
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              BRB, going to channel our inner barbie energy in
-                              this stunning fishtail lehenga by Mishru!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Speaking of vibrant colours, you might want to
-                              consider this electric blue corset set by Dolly J
-                              if you are someone who likes to make an entrance.
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              This corset lehenga by Seema Gujral with 3D
-                              flowers is somehow both demure and minimalistic,
-                              and we are here for it.
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
-                        <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="VIGL4687_11_11zon"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.439Z-VIGL4687_11_11zon.jpeg&w=3840&q=75"
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://jayantireddy.com/collections/lehenga-set/products/beige-gold-lehenga-with-corset"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
                     <div className="">
                       <ul className="Readmore_actions">
                         <li className="Readmore_actions_first-not-button">
@@ -992,7 +613,7 @@ const Article = () => {
           <br></br>
           <br></br>
           <br></br>
-           <br></br>
+          <br></br>
           <br></br>
           <br></br>
         </div>
